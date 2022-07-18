@@ -1,2 +1,2 @@
 # design-patterns-stragegy
-Implementation for study purposes of strategy design pattern
+Using ASP.NET Core Dependency Injection to wire up a strategy pattern implementation to harness SOLID design.
